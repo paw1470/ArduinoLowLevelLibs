@@ -1,7 +1,7 @@
 #ifndef WATERLEVELSENSOR_H
 #define WATERLEVELSENSOR_H
 #include <inttypes.h>
-#include "WaterLevelEnum.h"
+#include "button/WaterLevelEnum.h"
 
 //Internal pullup resistor in arduino 10K. Set bool FALSE if you use external betwen VCC and pins. 
 

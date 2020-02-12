@@ -1,4 +1,4 @@
-#include "Button.h"
+#include "button/Button.h"
 #include "Arduino.h"
 
 void Button::init(uint8_t pin, bool internalPullUpResistor){
